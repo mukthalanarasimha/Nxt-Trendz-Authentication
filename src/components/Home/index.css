@@ -1,0 +1,18 @@
+.description_Home {
+  height: 500px;
+  background-color: white;
+  padding: 20px;
+  display: flex;
+}
+
+.description_Home_min {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  width: 600px;
+  text-align: start;
+  margin: 20px;
+}
+.image_logo_clothe {
+  height: 400px;
+}

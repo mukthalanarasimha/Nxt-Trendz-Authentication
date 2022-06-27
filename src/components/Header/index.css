@@ -1,0 +1,24 @@
+.navabar_container {
+  display: flex;
+  background-color: white;
+  height: 100px;
+  padding: 10px;
+  justify-content: space-between;
+}
+.logo_images {
+  height: 75px;
+}
+.sub_header {
+  display: flex;
+}
+.element {
+  color: #475569;
+  font-family: 'roboto';
+  margin: 20px;
+}
+.logout_button {
+  background-color: blue;
+  height: 40px;
+  color: white;
+  border-radius: 5px;
+}
